@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FaturamentoMensal mes="Setembro" ano="2024">
+    <Dia data="2024-09-01">
+        <!-- Sem faturamento - final de semana -->
+    </Dia>
+    <Dia data="2024-09-02">
+        <Faturamento>
+            <Valor>1500.00</Valor>
+            <NumeroVendas>25</NumeroVendas>
+        </Faturamento>
+    </Dia>
+    <Dia data="2024-09-03">
+        <Faturamento>
+            <Valor>2000.00</Valor>
+            <NumeroVendas>30</NumeroVendas>
+        </Faturamento>
+    </Dia>
+    <Dia data="2024-09-04">
+        <Faturamento>
+            <Valor>2500.00</Valor>
+            <NumeroVendas>35</NumeroVendas>
+        </Faturamento>
+    </Dia>
+    <Dia data="2024-09-05">
+        <!-- Sem faturamento - feriado -->
+    </Dia>
+    <Dia data="2024-09-06">
+        <Faturamento>
+            <Valor>1800.00</Valor>
+            <NumeroVendas>28</NumeroVendas>
+        </Faturamento>
+    </Dia>
+    <Dia data="2024-09-07">
+        <!-- Sem faturamento - final de semana -->
+    </Dia>
+    <Dia data="2024-09-08">
+        <!-- Sem faturamento - final de semana -->
+    </Dia>
+    <Dia data="2024-09-09">
+        <Faturamento>
+            <Valor>2300.00</Valor>
+            <NumeroVendas>33</NumeroVendas>
+        </Faturamento>
+    </Dia>
+</FaturamentoMensal>
